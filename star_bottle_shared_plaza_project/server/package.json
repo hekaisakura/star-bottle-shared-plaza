@@ -1,0 +1,13 @@
+{
+  "name": "star-bottle-shared-plaza",
+  "version": "1.0.0",
+  "description": "星座漂流瓶共享海滩广场后端",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
